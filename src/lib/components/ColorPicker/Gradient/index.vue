@@ -1,5 +1,5 @@
 <template>
-    <fragment>
+    <span>
         <GradientControls
             :type="gradientType"
             :degree="gradientDegree"
@@ -34,7 +34,7 @@
             :alpha="colorAlpha"
             :updateColor="updateColor"
         />
-    </fragment>
+    </span>
 </template>
 
 <script src="./script.js" />

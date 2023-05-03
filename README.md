@@ -1,4 +1,6 @@
-# Vue Color Gradient Picker
+# Vue Color Gradient Picker without fragment component
+#### (FORK from [REPO](https://github.com/arthay/vue-color-gradient-picker))
+#### Removed fragment tag because of bug with nextSibling
 
 ## Table of Contents
 

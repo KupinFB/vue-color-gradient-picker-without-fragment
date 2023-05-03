@@ -1,5 +1,5 @@
 <template>
-    <fragment>
+    <span>
         <Area
             :red="colorRed"
             :green="colorGreen"
@@ -19,7 +19,7 @@
             :alpha="colorAlpha"
             :updateColor="updateColor"
         />
-    </fragment>
+    </span>
 </template>
 
 <script src="./script.js" />

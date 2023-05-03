@@ -1,4 +1,3 @@
-import Hex from './Hex';
 import RGB from './RGB';
 
 export default {
@@ -13,7 +12,6 @@ export default {
     },
 
     components: {
-        Hex,
         RGB
     }
 };

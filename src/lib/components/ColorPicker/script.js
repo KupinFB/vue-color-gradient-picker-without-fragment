@@ -1,10 +1,6 @@
-import Vue from 'vue';
-import { Plugin } from "vue-fragment";
-
 import Solid from './Solid';
 import Gradient from './Gradient';
 
-Vue.use(Plugin);
 
 export default {
     name: "ColorPicker",

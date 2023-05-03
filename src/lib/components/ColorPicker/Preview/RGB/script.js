@@ -1,3 +1,4 @@
+import Hex from './../Hex';
 import RGBItem from './RGBItem';
 import { rgbToHsv } from "@/lib/helpers";
 
@@ -13,6 +14,7 @@ export default {
     },
 
     components: {
+        Hex,
         RGBItem
     },
 
